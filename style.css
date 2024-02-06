@@ -1,0 +1,23 @@
+
+
+*{
+    margin: 0;
+    padding: 0  ;
+    box-sizing: border-box;
+}
+
+.main-box{
+    background-color: #eee;
+    margin: 12px 5px;
+    border-radius: 5px;
+
+}
+
+.wrapper {
+
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+   
